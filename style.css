@@ -1,0 +1,22 @@
+h1, h2 {
+  color: yellow;
+  font-family: Roboto, sans-serif;
+  font-size: xxx-large;
+}
+
+body {
+  color: yellow;
+  font-family: Newsreader, sans-serif;
+  background-image: url("surfer_0.jpg");
+  font-size: large;
+}
+
+.small-image-1 {
+  width: 200px;
+  float: left;
+  margin-left: 150px;
+}
+
+.duke {
+  padding: 300px 300px 0 0;
+}
